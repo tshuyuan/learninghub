@@ -43,3 +43,6 @@ rm(list=ls())
 
 ### Now instead of 10th row, repeat the whole procedure for the whole matrix ###
 
+I HAVE MADE CHANGES
+
+
